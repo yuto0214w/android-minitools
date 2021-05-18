@@ -8,5 +8,5 @@ Das Programm erleichtert die Verwendung von Input-Befehlen.
 1. Platzieren Sie ihn auf `C:\Windows\System32` (nicht empfohlen) oder platzieren Sie ihn auf `C:\Users\<username>\Downloads\android-minitools` und stellen Sie PATH ein
 2. Erledigt, `android help` zum Anzeigen der Hilfe
 ## Andere Sprache README
-- [日本語](/ja-jp)
-- [English](/../..)
+- [日本語](/README/ja-jp)
+- [English](/)
