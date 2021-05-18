@@ -1,7 +1,7 @@
 # android-minitools
 The program makes use of input commands easier.
 ## Requirements
-- [Windows](https://www.microsoft.com/ja-jp/software-download/windows10)
+- [Windows](https://www.microsoft.com/en-us/software-download/windows10)
 - [adb](https://developer.android.com/studio/releases/platform-tools#downloads)
 - [Node.js](https://nodejs.org)
 ## How to Use (Omitted setup like adb setup)
