@@ -8,5 +8,5 @@ input コマンドを簡単に使えるようにするプログラム
 1. `C:\Windows\System32` に置く(非推奨)または `C:\Users\<username>\Downloads\android-minitools` に置いて PATH を通す
 2. これで完了です、`android help` でヘルプを表示できます。
 ## 別の言語で書かれたREADME
-- [English](/)
+- [English](/../..)
 - [Deutsch](/README/de-de)
