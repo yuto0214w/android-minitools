@@ -59,6 +59,8 @@ if "%1" == "help" (
   echo     - keycode            ^| Format is KEYCODE_XXX
   echo       - longpress,long,l ^| These are listed on
   echo                          ^| https://tinyurl.com/android-keyevents
+  echo.
+  echo   version                ^| Show Program Version
 ) else if "%1" == "power" (
   call :apply KEYCODE_POWER
 ) else if "%1" == "home" (
@@ -151,6 +153,8 @@ if "%1" == "help" (
     echo                        ^| https://tinyurl.com/android-keyevents
     exit /b
   )
+) else if "%1" == "version" (
+  echo android-minitools v1.0.0
 ) else (
   echo %cd%^>android help
   call :main help
