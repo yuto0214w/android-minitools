@@ -9,4 +9,4 @@ Das Programm erleichtert die Verwendung von Input-Befehlen.
 2. Erledigt, `android help` zum Anzeigen der Hilfe
 ## Andere Sprache README
 - [日本語](/README/ja-jp)
-- [English](/)
+- [English](/../..)
