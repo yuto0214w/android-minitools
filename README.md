@@ -1,5 +1,5 @@
 # android-minitools
-The program make use of input commands easier.
+The program makes use of input commands easier.
 ## Requirements
 - [Windows](https://www.microsoft.com/ja-jp/software-download/windows10)
 - [adb](https://developer.android.com/studio/releases/platform-tools#downloads)
